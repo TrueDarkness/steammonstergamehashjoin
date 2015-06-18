@@ -6,8 +6,8 @@
 // @match *://steamcommunity.com/minigame
 // @match *://steamcommunity.com/minigame/
 // @grant none
-// @updateURL https://raw.githubusercontent.com/wchill/steamSummerMinigame/master/autoPlay.user.js
-// @downloadURL https://raw.githubusercontent.com/wchill/steamSummerMinigame/master/autoPlay.user.js
+// @updateURL https://github.com/TrueDarkness/steammonstergamehashjoin/raw/master/smghj.js
+// @downloadURL https://github.com/TrueDarkness/steammonstergamehashjoin/raw/master/smghj.js
 // ==/UserScript==
 
 if(window.location.hash) {
