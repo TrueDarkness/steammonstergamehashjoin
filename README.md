@@ -6,6 +6,7 @@ Allow joining a specific room by accessing the monster game address with a hash 
 How to Use:
 
 http://steamcommunity.com/minigame/#roomcode
+
 http://steamcommunity.com/minigame#roomcode
 
 
