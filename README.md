@@ -22,4 +22,5 @@ As soon as you access the Monster Game main screen, if the address bar has a has
 # Troubleshooting:
 
 - After entering the hash with the room code and typing enter, nothing happens, it doesn't refresh the page.
-. The browser is just attempting to navigate to an element instead of accessing a new page. Try pressing enter again, or hit F5 to refresh.
+
+The browser is just attempting to navigate to an element instead of accessing a new page. Try pressing enter again, or hit F5 to refresh.
