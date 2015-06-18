@@ -4,8 +4,10 @@ Allow joining a specific room by accessing the monster game address with a hash 
 
 
 How to Use:
+
 http://steamcommunity.com/minigame/#roomcode
 http://steamcommunity.com/minigame#roomcode
+
 
 As soon as you access the Monster Game main screen, if the address bar has a hashcode, it'll automatically attempt to join that room by issuing the JoinGame command.
 
